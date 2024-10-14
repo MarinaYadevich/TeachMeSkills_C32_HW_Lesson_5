@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package by.teachmeskills.yadevich.lesson5;
 
 /** 1*. Шахматная доска.
  * Создать программу для раскраски шахматной доски с помощью цикла.

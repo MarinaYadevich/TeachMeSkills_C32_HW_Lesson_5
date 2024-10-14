@@ -1,3 +1,5 @@
+package by.teachmeskills.yadevich.lesson5;
+
 import java.util.Arrays;
 
 /** 3. Создайте двумерный массив целых чисел.

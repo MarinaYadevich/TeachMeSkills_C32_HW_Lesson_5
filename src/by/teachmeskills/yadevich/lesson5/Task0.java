@@ -1,3 +1,4 @@
+package by.teachmeskills.yadevich.lesson5;
 
 import java.util.Arrays;
 import java.util.Scanner;
